@@ -19,7 +19,7 @@ This VR Lab app allows you to do multiple experiments in one place.
 
 ## 🛠 Installation
 1. Download the APK
-2. On Android, enable **Install unknown apps**
+2. On Meta Quest 3, enable Developer tools ,then **Install unknown apps**
 3. Open the APK and install
 
 ## ℹ️ Notes
