@@ -15,7 +15,7 @@ This VR Lab app allows you to do multiple experiments in one place.
 > Hosted on Google Drive due to GitHub file size limits.
 
 ## 🧪 Tested On
-- Android (add versions/devices if you want)
+- Meta Quest 3 
 
 ## 🛠 Installation
 1. Download the APK
